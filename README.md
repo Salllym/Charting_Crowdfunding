@@ -6,11 +6,6 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 
 Getting funded on a crowdfunding website requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 1,000 generated sample projects in order to uncover any hidden trends.
 
-### Before You Begin
-
-1. Create a new space for this project called `excel-challenge` in either DropBox or Google Drive. **Do not add this homework to an existing space**.
-
-2. Store your Excel workbooks here in this new space, and create a sharable link for submission.
 
 ## Instructions
 
