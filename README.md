@@ -1,4 +1,4 @@
-# Excel Homework: Charting Crowdfunding
+# Charting Crowdfunding
 
 ## Background
 
