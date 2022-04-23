@@ -3,7 +3,6 @@
 A database of 1,000 generated sample projects was organized, modified, and analyzed in an attempt to uncover hidden market trends to find success in meeting or exceeding the project’s initial goal in a crowdfunding campaign. 
 
 
-
 *	The Percent Funded column was created to show how much money a campaign made relative to its initial goal.
 *	The Average Donation column was created to uncover how much each project backer paid on average.
 *	Two new columns, one called Parent Category and another called Sub-Category was created to split the Category and Sub-Category into separate columns.
@@ -12,7 +11,7 @@ A database of 1,000 generated sample projects was organized, modified, and analy
 
 *	New sheets with a pivot tables were created to analyze the initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category and per sub-category. 
 
-![Category Stats](Images/CategoryStats.PNG)
+![Category Stats](images/CategoryStats.PNG)
 
 *	Stacked column pivot charts that can be filtered by country and country and parent-category based on the created tables were created.
 *	The Date Created Conversion and Date Ended Conversion columns were created to convert the data contained within launched_at and deadline into Excel’s date format.
