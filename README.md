@@ -17,7 +17,7 @@ A new sheet was also created to reveal how many successful, failed, and canceled
 There are more successful crowdfunding campaigns than failed campaigns when the data is looked at as a whole/ total, which means that crowdfunding campaigns are successful generally/ overall. There are a total of 565 successful crowdfunding campaigns and 364 failed crowdfunding campaigns.
 
 
-# Bonus Statistical Analysis
+## Bonus Statistical Analysis
 
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways to characterize quantitative metrics, such as the number of campaign backers. Therefore, a summary statistics table was created to evaluate the number of backers of successful and unsuccessful campaigns.
 
