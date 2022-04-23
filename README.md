@@ -11,10 +11,9 @@ A database of 1,000 generated sample projects was organized, modified, and analy
 ![Crowdfunding Table](images/FullTable.PNG)
 
 *	New sheets with a pivot tables were created to analyze the initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category and per sub-category. 
+*	Stacked column pivot charts that can be filtered by country and country and parent-category based on the created tables were created.
 
 ![Category Stats](images/CategoryStats.PNG)
-
-*	Stacked column pivot charts that can be filtered by country and country and parent-category based on the created tables were created.
 
 ![Subcategory Stats](images/SubcategoryStats.PNG)
 
